@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/StevenJiao/CMPUT404-assignment-css-hell/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/StevenJiao/CMPUT404-assignment-css-hell/actions/workflows/pages/pages-build-deployment)
+
 Assignment: CSS Hell
 ====================
 
